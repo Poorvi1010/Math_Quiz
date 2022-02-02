@@ -1,0 +1,27 @@
+body{
+    background-image: url(img25.jpg);
+    font-family: cursive;
+    color: lightpink;
+    font-size: 30px;
+}
+div{
+    background-color: white;
+    padding: 30px;
+    margin: 30px;
+   float: none;
+    border-radius: 20px;
+    width:500px;
+}
+#game{
+    color: white;
+}
+#game1{
+    color: white;
+}
+#output{
+    background-color: white;
+    border-top: 10px solid darkred;
+    border-radius: 10px;
+    float:none;
+    text-align: left;
+}
